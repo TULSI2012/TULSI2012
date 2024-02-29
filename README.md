@@ -15,11 +15,11 @@ Coding for me is like painting for an artist or composing music for a musician -
 Check out my repositories to see what I've been up to! 💻
 
 **Primary Tech Stack:**
-- **Frontend Development: HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄
--**Backend Development: Node.js (JavaScript runtime) 🟢 | Python (Django, Flask) 🐍 | Java (Spring Boot) ☕ | PHP (Laravel) 🐘
--**Databases: MySQL 🐬 | MongoDB (NoSQL) 🍃
--**Frameworks/Libraries: React.js ⚛️ | Angular (Angular.js) 🅰️ | Vue.js 🖖 | Express.js (Node.js framework) ⚙️ | Django (Python framework) 🐍 | Flask (Python micro-framework) 🌶️
--**Version Control: Git 🐙 | GitHub (Git repository hosting service) 🐱
--**Deployment/Hosting: AWS (Amazon Web Services) ☁️ | Netlify 🚀
--**DevOps/CI/CD: Docker 🐳 | Kubernetes (K8s) ☸️
--**Others: RESTful APIs 🔄 | JSON (JavaScript Object Notation) 📝
+_**Frontend Development: HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄
+_**Backend Development: Node.js (JavaScript runtime) 🟢 | Python (Django, Flask) 🐍 | Java (Spring Boot) ☕ | PHP (Laravel) 🐘
+_**Databases: MySQL 🐬 | MongoDB (NoSQL) 🍃
+_**Frameworks/Libraries: React.js ⚛️ | Angular (Angular.js) 🅰️ | Vue.js 🖖 | Express.js (Node.js framework) ⚙️ | Django (Python framework) 🐍 | Flask (Python micro-framework) 🌶️
+_**Version Control: Git 🐙 | GitHub (Git repository hosting service) 🐱
+_**Deployment/Hosting: AWS (Amazon Web Services) ☁️ | Netlify 🚀
+_**DevOps/CI/CD: Docker 🐳 | Kubernetes (K8s) ☸️
+_**Others: RESTful APIs 🔄 | JSON (JavaScript Object Notation) 📝
