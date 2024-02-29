@@ -15,11 +15,11 @@ Coding for me is like painting for an artist or composing music for a musician -
 Check out my repositories to see what I've been up to! 💻
 
 **Primary Tech Stack:**<br>
-_**Frontend Development: HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄<br>
-_**Backend Development: Node.js (JavaScript runtime) 🟢 | Python (Django, Flask) 🐍 | Java (Spring Boot) ☕ | PHP (Laravel) 🐘
-_**Databases: MySQL 🐬 | MongoDB (NoSQL) 🍃
-_**Frameworks/Libraries: React.js ⚛️ | Angular (Angular.js) 🅰️ | Vue.js 🖖 | Express.js (Node.js framework) ⚙️ | Django (Python framework) 🐍 | Flask (Python micro-framework) 🌶️
-_**Version Control: Git 🐙 | GitHub (Git repository hosting service) 🐱
-_**Deployment/Hosting: AWS (Amazon Web Services) ☁️ | Netlify 🚀
-_**DevOps/CI/CD: Docker 🐳 | Kubernetes (K8s) ☸️
-_**Others: RESTful APIs 🔄 | JSON (JavaScript Object Notation) 📝
+**Frontend Development**: HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄<br>
+**Backend Development**: Node.js (JavaScript runtime) 🟢 | Python (Django, Flask) 🐍 | Java (Spring Boot) ☕ | PHP (Laravel) 🐘<br>
+**Databases**: MySQL 🐬 | MongoDB (NoSQL) 🍃<br>
+**Frameworks/Libraries**: React.js ⚛️ | Angular (Angular.js) 🅰️ | Vue.js 🖖 | Express.js (Node.js framework) ⚙️ | Django (Python framework) 🐍 | Flask (Python micro-framework) 🌶️<br>
+**Version Control**: Git 🐙 | GitHub (Git repository hosting service) 🐱<br>
+**Deployment/Hosting**: AWS (Amazon Web Services) ☁️ | Netlify 🚀<br>
+**DevOps/CI/CD**: Docker 🐳 | Kubernetes (K8s) ☸️<br>
+**Others**: RESTful APIs 🔄 | JSON (JavaScript Object Notation) 📝<br>
