@@ -14,8 +14,8 @@ Coding for me is like painting for an artist or composing music for a musician -
 
 Check out my repositories to see what I've been up to! 💻
 
-**Primary Tech Stack:**
-_**Frontend Development: HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄
+**Primary Tech Stack:**<br>
+_**Frontend Development: HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄<br>
 _**Backend Development: Node.js (JavaScript runtime) 🟢 | Python (Django, Flask) 🐍 | Java (Spring Boot) ☕ | PHP (Laravel) 🐘
 _**Databases: MySQL 🐬 | MongoDB (NoSQL) 🍃
 _**Frameworks/Libraries: React.js ⚛️ | Angular (Angular.js) 🅰️ | Vue.js 🖖 | Express.js (Node.js framework) ⚙️ | Django (Python framework) 🐍 | Flask (Python micro-framework) 🌶️
