@@ -7,12 +7,12 @@
 
 ### Driven by a passion for pushing the boundaries of what's possible, I approach web development 🌐 as a canvas for innovation 🎨, where every line of code represents a brushstroke in a masterpiece of user-centric design 🚀🖥️🌟
 
-Coding for me is like painting for an artist or composing music for a musician - it's my way of creating, expressing, and most importantly, impacting.
+##Coding for me is like painting for an artist or composing music for a musician - it's my way of creating, expressing, and most importantly, impacting.
 
-🎓 I've honed my skills through a variety of projects - everything from card games to E-Com website.  
+##🎓 I've honed my skills through a variety of projects - everything from card games to E-Com website.  
 
 
-Check out my repositories to see what I've been up to! 💻
+##Check out my repositories to see what I've been up to! 💻
 
 **Primary Tech Stack:**<br>
 **Frontend Development**: HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄<br>
