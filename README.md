@@ -14,12 +14,12 @@
 
 #### Check out my repositories to see what I've been up to! 💻
 
-**Primary Tech Stack:**<br>
-**Frontend Development**: HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄<br>
-**Backend Development**: Node.js (JavaScript runtime) 🟢 | Python (Django, Flask) 🐍 | Java (Spring Boot) ☕ | PHP (Laravel) 🐘<br>
-**Databases**: MySQL 🐬 | MongoDB (NoSQL) 🍃<br>
-**Frameworks/Libraries**: React.js ⚛️ | Angular (Angular.js) 🅰️ | Vue.js 🖖 | Express.js (Node.js framework) ⚙️ | Django (Python framework) 🐍 | Flask (Python micro-framework) 🌶️<br>
-**Version Control**: Git 🐙 | GitHub (Git repository hosting service) 🐱<br>
-**Deployment/Hosting**: AWS (Amazon Web Services) ☁️ | Netlify 🚀<br>
-**DevOps/CI/CD**: Docker 🐳 | Kubernetes (K8s) ☸️<br>
-**Others**: RESTful APIs 🔄 | JSON (JavaScript Object Notation) 📝<br>
+## **Primary Tech Stack:**<br>
+#### **Frontend Development**<br> HTML5 (HyperText Markup Language) 🧱 | CSS3 (Cascading Style Sheets) 🎨 | JavaScript (JS) 📜 |TypeScript (TS) 🔄<br>
+#### **Backend Development**<br> Node.js (JavaScript runtime) 🟢 | Python (Django, Flask) 🐍 | Java (Spring Boot) ☕ | PHP (Laravel) 🐘<br>
+#### **Databases**<br> MySQL 🐬 | MongoDB (NoSQL) 🍃<br>
+#### **Frameworks/Libraries**<br> React.js ⚛️ | Angular (Angular.js) 🅰️ | Vue.js 🖖 | Express.js (Node.js framework) ⚙️ | Django (Python framework) 🐍 | Flask (Python micro-framework) 🌶️<br>
+#### **Version Control**<br> Git 🐙 | GitHub (Git repository hosting service) 🐱<br>
+#### **Deployment/Hosting**<br> AWS (Amazon Web Services) ☁️ | Netlify 🚀<br>
+#### **DevOps/CI/CD**<br> Docker 🐳 | Kubernetes (K8s) ☸️<br>
+#### **Others**<br> RESTful APIs 🔄 | JSON (JavaScript Object Notation) 📝<br>
